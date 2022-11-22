@@ -9,7 +9,7 @@ Maker Media GmbH
 
 Den Sketch zum Projekt findet ihr hier.
 
-![Picture](https://github.com/MakeMagazinDE/Atom-Pendeluhr/banner.png)
+![Picture](https://github.com/MakeMagazinDE/Atom-Pendeluhr/pendeluhr_digital.png)
 
 <br><br>
 Den vollständigen Artikel für die Bauanleitung gibt es in der Make-Ausgabe 6/22 zu lesen.
