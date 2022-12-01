@@ -12,4 +12,4 @@ Den Sketch zum Projekt findet ihr hier.
 ![Picture](https://github.com/MakeMagazinDE/Pendel-Atomuhr/blob/main/pendeluhr_banner_github2.png)
 
 <br>
-Den vollständigen Artikel für die Bauanleitung gibt es in der [Make-Ausgabe 6/22](https://www.heise.de/select/make/2022/6/2229713473966873287) zu lesen.
+Den vollständigen Artikel mit der Bauanleitung gibt es in der <b><a href="https://www.heise.de/select/make/2022/6/2229713473966873287">Make Ausgabe 6/22</a></b> zu lesen.
